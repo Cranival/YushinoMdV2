@@ -85,9 +85,6 @@ if (teks == 'game') tags = {
 if (teks == 'anime') tags = {
 'anime': 'Anime'
 }
-if (teks == 'nsfw') tags = {
-'nsfw': 'Nsfw'
-}
 if (teks == 'rpg') tags = {
 'rpg': 'Rpg'
 }
@@ -231,7 +228,6 @@ rows: [
 {title: `${emot} Kerang`, rowId: ".? kerangajaib", description: "Tanyakan pada ketua club"},
 {title: `${emot} Quotes`, rowId: ".? quotes", description: "Random Inspirasi"},
 {title: `${emot} Anime`, rowId: ".? anime", description: "Kamu wibu ya bang?"},
-{title: `${emot} Nsfw`, rowId: ".? nsfw", description: "Tch, dasar sagne"},
 {title: `${emot} Premium`, rowId: ".? premium", description: "Only premium Users"},
 {title: `${emot} Anonymous Chats`, rowId: ".? anonymous", description: "Bicara dengan orang tidak dikenal"},
 {title: `${emot} Al-Quran`, rowId: ".? quran", description: "Tobat yuk kak"},
